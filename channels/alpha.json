@@ -1,5 +1,1 @@
-{
-  "channel": "alpha",
-  "status": "development-placeholder",
-  "published": false
-}
+{"releaseVersion":"0.1.0-alpha.3","bundleVersion":"2026.9.24-a3f00d8","bundleSha256":"720697b74222ff8e0024cb463147dc16896bea79fbed668b40867b7ce1db549c","bundleBytes":17904824,"downloadUrl":"https://github.com/3-spider/jiepage-releases/releases/download/jiepage-alpha-0.1.0-alpha.3/jiepage-web-0.1.0-alpha.3-a3f00d8.zip","minimumNativeVersion":"0.1.0-alpha.3","releaseNotes":["Alpha 3 正式发布"],"publishedAt":"2026-09-25T01:16:22.302Z","signature":{"algorithm":"ECDSA_P256_SHA256","keyId":"jiepage-alpha-2026-09","value":"tdw7Si6gEq2cJfRS49+N+ap2W6oWVcYJD85dxFXTu9NCJ9MJcnx0zaO78ye4s5OaTsQjtgX2ogtndNkO+Vus0g=="}}
